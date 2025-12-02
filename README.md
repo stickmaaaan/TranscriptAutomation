@@ -8,6 +8,9 @@ bei dem sensible Daten lokal verbleiben und über eine optionale Sprechererkennu
 
 ---
 
+![screenshot](images/screenshot.png)
+
+
 ## 🔎 Hauptfunktionen
 
 - Aufnahme über das Mikrofon (Auswahl des Eingabegeräts).
